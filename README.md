@@ -6,14 +6,14 @@
 <br />
 
 <p align = "center">
-  <img align="center" src="https://readme-stats-github.vercel.app/api?username=fexd12&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="fexd12's Github Stats" />
-  <img align="center" src="https://readme-stats-github.vercel.app/api/top-langs/?username=fexd12&theme=radical&count_private=true" />
+  <img align="center" src="https://readme-stats-github.vercel.app/api?username=Gryog&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Gryog's Github Stats" />
+  <img align="center" src="https://readme-stats-github.vercel.app/api/top-langs/?username=Gryog&theme=radical&count_private=true" />
 </p>
 <br />
 
 <p align="center"=>
-    <a href="https://github.com/fexd12/%22%3E<img src="https://img.shields.io/github/followers/fexd12.svg?label=GitHub&style=social" alt="GitHub"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/felipe-amorim-de-melo-a88a80158/%22%3E<img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn</a>
+    <a href="https://github.com/Gryog<img src="https://img.shields.io/github/followers/Gryog.svg?label=GitHub&style=social" alt="GitHub"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/guilherme-de-lima-sousa-b891a6172/<img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn</a>
 
 <br />
 </p>
