@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+[![](https://visitcount.itsvg.in/api?id=Gryog&icon=5&color=12)](https://visitcount.itsvg.in)
+
 Hi there 👋 <br>i'm a Computer engineer, trying to better my self<br><br>🔭 I’m currently working as a System Analyst making automations using Python<br>🌱 I’m currently learning ML/AI
 
 
@@ -11,8 +14,5 @@ Hi there 👋 <br>i'm a Computer engineer, trying to better my self<br><br>🔭 
 ![](https://github-readme-stats.vercel.app/api?username=Gryog&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gryog&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gryog&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Gryog&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
